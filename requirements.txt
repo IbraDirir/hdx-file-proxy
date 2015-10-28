@@ -8,7 +8,6 @@ Flask-SQLAlchemy==2.0
 itsdangerous==0.24
 Jinja2==2.8
 manage.py==0.2.10
-requests==2.7.0
 SAValidation==0.3.0
 SQLAlchemy==1.0.8
 tabutils==0.18.1
